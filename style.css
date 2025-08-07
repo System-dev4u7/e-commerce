@@ -501,7 +501,7 @@ input::placeholder{
 
 .imagess {
     width: 50%;
-    height: 40vh;
+    height: 300px;
     margin-bottom: 1rem;
     overflow: hidden;
 }
